@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>这是一篇新的博文</title>
+      <link href="/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
+      <url>/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 服务器 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 标签test </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是另一篇新的博文</title>
       <link href="/fws/%E8%BF%99%E6%98%AF%E5%8F%A6%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
       <url>/fws/%E8%BF%99%E6%98%AF%E5%8F%A6%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
@@ -13,7 +38,7 @@
       
       <categories>
           
-          <category> 测试 </category>
+          <category> 上网 </category>
           
       </categories>
       
@@ -23,19 +48,6 @@
             <tag> 测试 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>这是一篇新的博文</title>
-      <link href="/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
-      <url>/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
       
     </entry>
     
