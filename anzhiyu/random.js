@@ -1,3 +1,3 @@
-var posts=["2025/01/14/这是另一篇新的博文/","2025/01/14/这是一篇新的博文/","2025/01/14/hello-world/"];function toRandomPost(){
+var posts=["fws/这是另一篇新的博文/","fws/这是一篇新的博文/","fws/hello-world/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
