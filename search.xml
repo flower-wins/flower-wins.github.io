@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>这是一篇新的博文</title>
+      <title>HiDNS 域名终身免费计划</title>
       <link href="/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/"/>
       <url>/fws/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E5%8D%9A%E6%96%87/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>转自cm大佬blog<br>原文连接：<a href="https://杨幂的脚.dpdns.org/p/hidns/">https://xn--1uto7rutmzjk.dpdns.org/p/hidns/</a><br>HiDNS 域名终身免费计划<br>HiDNS 近期调整了其免费域名服务政策。现在，用户需要通过提交工单进行人工审核来申请免费域名。</p><p>为了获得永久免费资格（有效期至 2099年12月31日 23:59:59），您需要将申请到的域名成功绑定到您的博客或其他网络服务，并为其配置有效的 SSL 证书。</p><p>请特别注意，HiDNS 严禁将免费域名用于任何非法或滥用行为，包括但不限于：</p><p>钓鱼网站<br>盗版内容分发（如影视资源、破解软件等）<br>病毒或木马传播<br>发送垃圾邮件<br>违反规定的域名将被删除相关账户。</p><p>官方公告详情：<a href="https://www.hidoha.net/news/important-update-on-hidns-free-domain-service">https://www.hidoha.net/news/important-update-on-hidns-free-domain-service</a></p><p>注册账号<br>访问 HiDNS 官网，点击右上角的 注册 按钮，如实填写注册信息。<br>提交注册信息后，您将收到一封验证邮件，请点击邮件中的链接完成验证。<br>申请域名<br>登录您的 HiDNS 账号，点击 新订单。<br>新订单</p><p>填写你需要的域名前缀，选择后缀（如 .hidns.co、.hidns.vip 等），并点击 检查 按钮。未提示报错说明该域名未被占用。<br>检查<br>下一步</p><p>点击 去结算，然后直接关闭弹出的 PayPal 窗口。<br>去结算</p><p>返回 HiDNS 主页，即可看到最近的订单，进入您最近的订单点击提交工单<br>最近的订单<br>提交工单</p><p>主题：申请免费域名<br>消息：<br>尊敬的 HiDNS 团队：</p><p>我希望申请这个域名，</p><p>我承诺此域名将严格用于个人博客或其他合法的网络服务，<br>并且保证不会将其用于任何形式的滥用行为，包括但不限于钓鱼网站、影视资源、盗版内容分发、病毒或木马传播以及发送垃圾邮件等。</p><p>感谢您的审核与支持。</p><p>此致，<br>工单</p><p>等待审核，审核通过后，您将得到一个一年有效期的域名。<br>审核通过</p><p>重要提醒：域名审核通过后，您只有7天时间来激活永久资格！只需将域名连接到您的网站或博客，并添加安全证书(SSL)，即可自动升级为终身免费使用权限。</p><p>如何使用<br>可手动添加 CNAME 记录、A 记录等解析记录。<br>添加解析记录</p>]]></content>
       
       
       <categories>
